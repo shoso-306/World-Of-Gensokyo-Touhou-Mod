@@ -39,29 +39,29 @@
 	{
 		"name": "Scarlet Devil Mansion",
 		"uniqueTo": "Fated Kingdom"
-		"cost": 185,
+		"cost": 85,
 		"isNationalWonder": true,
-		"uniques": ["Special Wonder", "[-30]% construction time for [All] improvements"]
+		"uniques": ["Cost increases by [50] per owned city","Special Wonder", "[-30]% construction time for [All] improvements"]
 		"greatPersonPoints": {"Great Engineer": 1},
 		"quote": "Many fairies are employed by Remilia Scarlet as Fairy Maids in order to clean the mansion, and they're overseen by the head maid, Sakuya Izayoi."
 	},
 	{
 		"name": "Scarlet Basement",
 		"uniqueTo": "Fraternal Empire",
-		"cost": 185,
+		"cost": 85,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-        "uniques": ["Special Wonder", "[+20]% Strength <for [All] units> <vs cities> <when attacking> <for [495] turns>"]
+        "uniques": ["Cost increases by [50] per owned city","Special Wonder", "[+20]% Strength <for [All] units> <vs cities> <when attacking> <for [495] turns>"]
 		"quote": "This is where Flandre Scarlet was locked up for 495 years."
 	},
 	{
 		"name": "Okuu's Nuclear Reactor",
 		"uniqueTo": "Chireiden Sovereignty",
-		"cost": 185,
+		"cost": 85,
 		"production": 10,
 		"isNationalWonder": true,
 		"greatPersonPoints": {"Great Engineer": 1},
-        "uniques": ["Special Wonder", "Must have an owned [Youkai Mountain] within [3] tiles"],
+        "uniques": ["Cost increases by [50] per owned city","Special Wonder", "Must have an owned [Youkai Mountain] within [3] tiles"],
 		"quote": "Utsuho Reiuji can be found here to power it and Rin Kaenbyou carts corpses into the Furnace to keep it running."
 	},
 	{
@@ -69,7 +69,7 @@
 		"uniqueTo": "Eientei Residents",
 		"isNationalWonder": true,
 		"cost": 225,
-		"uniques": ["Special Wonder", "[-100]% maintenance costs <in this city>"],
+		"uniques": ["Cost increases by [50] per owned city","Special Wonder", "[-100]% maintenance costs <in this city>"],
 		"quote": "Every month on the night of the full moon, the residents of Eientei hold a Moon Festival (Reigetsusai), offering mochi with medicinal herbs pounded into them."
 	},
 	{
